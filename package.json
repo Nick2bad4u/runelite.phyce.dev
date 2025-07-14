@@ -48,7 +48,7 @@
     "vite-tsconfig-paths": "^4.2.1"
   },
   "dependencies": {
-    "@tanstack/table-core": "^8.16.0",
+    "@tanstack/table-core": "^8.21.3",
     "chart.js": "^4.4.2",
     "qwik-table": "^0.0.4",
     "tablesort": "^5.3.0"
